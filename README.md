@@ -35,16 +35,6 @@ install script for your system (e.g. https://ubuntulionheart.org/25.10/desktop.s
 The scripts are all available in this repository. They are human-readable and thoroughly commented for your 
 peace of mind.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://ubuntu-lionheart-website.indiepro.workers.dev/indiepro-long-white-text.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://ubuntu-lionheart-website.indiepro.workers.dev/indiepro-long-black-text.png">
-  <img alt="IndiePro Logo" src="https://ubuntu-lionheart-website.indiepro.workers.dev/indiepro-long-white-text.png" height="32" />
-</picture>
-
-Ubuntu Lionheart is proudly sponsored by IndiePro, the all-in-one, AI-enhanced platform for freelancers to find 
-clients, manage projects and make way more money.
-https://getindiepro.com
-
 ## FAQ
 
 ### Why did you create this script?
@@ -75,3 +65,15 @@ Ubuntu Lionheart is named after Richard the Lionheart. This is for two reasons:
 
 ### Can I contribute to Ubuntu Lionheart?
 Yes! We welcome contributions. Please report any issues and submit pull requests right here on the Github repo.
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://ubuntu-lionheart-website.indiepro.workers.dev/indiepro-long-white-text.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://ubuntu-lionheart-website.indiepro.workers.dev/indiepro-long-black-text.png">
+  <img alt="IndiePro Logo" src="https://ubuntu-lionheart-website.indiepro.workers.dev/indiepro-long-white-text.png" height="32" />
+</picture>
+
+Ubuntu Lionheart is proudly sponsored by IndiePro, the all-in-one, AI-enhanced platform for freelancers to find
+clients, manage projects and make way more money.
+https://getindiepro.com
