@@ -29,7 +29,7 @@ detect_desktop_or_server() {
 
 # Define the list of supported OS versions for this specific application
 # You can modify this array as needed.
-SUPPORTED_VERSIONS=("24.04" "25.10" "26.04")
+SUPPORTED_VERSIONS=("25.10")
 
 # --- Version Extraction ---
 echo "Attempting to read OS version from /etc/os-release..."
