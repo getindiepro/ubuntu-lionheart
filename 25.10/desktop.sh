@@ -32,7 +32,7 @@ install_brave () {
 
 # Replace Rust Utils (uutils) with GNU CoreUtils
 install_gnu_coreutils () {
-	sudo apt install coreutils-from-gnu --allow-remove-essential coreutils-from-uutils-
+	sudo apt install -y coreutils-from-gnu --allow-remove-essential coreutils-from-uutils-
 	echo "You can verify whether GNU coreutils or Rust uutils are installed by using this command:"
 	echo "ls --version"
 }
