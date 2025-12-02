@@ -53,7 +53,7 @@ Yes! If you are running on a desktop, the script will present you with a menu in
 ### How often is it updated?
 Ubuntu Lionheart will be updated as needed for each new release of Ubuntu from 25.10 onward.
 
-To paraphrase Aragorn: there may come a day when Ubuntu strays so far from its roots and or goes so woke that we are forced to pick a new distro to run our infrastructure, but it is not this day!
+To paraphrase Aragorn: there may come a day when Ubuntu strays so far from its roots or goes so woke that we are forced to pick a new distro to run our infrastructure, but it is not this day!
 
 ### Does this work on existing Ubuntu installations?
 Yes! You can run the script on an existing Ubuntu system. It will remove unwanted packages and install new ones, but won't affect your personal files. It's mostly just running more advanced apt commands. However, for obvious reasons we cannot accept any responsibility or liability if something goes wrong, so make backups.
@@ -74,6 +74,6 @@ Yes! We welcome contributions. Please report any issues and submit pull requests
   <img alt="IndiePro Logo" src="https://ubuntu-lionheart-website.indiepro.workers.dev/indiepro-long-white-text.png" height="32" />
 </picture>
 
-Ubuntu Lionheart is proudly sponsored by IndiePro, the all-in-one, AI-enhanced platform for freelancers to find
+Ubuntu Lionheart is brought to you by the developers of IndiePro, the all-in-one, AI-enhanced platform for freelancers to find
 clients, manage projects and make way more money.
 https://getindiepro.com
